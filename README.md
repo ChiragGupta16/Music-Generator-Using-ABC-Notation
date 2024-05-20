@@ -9,10 +9,10 @@ pianist sees while playing piano. The model is based on RNN to predict the the n
 </p>
 <h2>Data Source and Libraries</h2>
 <p>
-  I have used the ABC Notation files from [Nottingham Music Database](https://abc.sourceforge.net/NMD/) <br>
+  I have used the ABC Notation files from Nottingham Music Database(https://abc.sourceforge.net/NMD/) <br>
   It contains over 1000 Folk Tunes stored in a special ABC format. Do check it out!<br>
   You can use any tune for training<br><br>
-  For converting the abc format text to music we will use <b>music21</b> library. You can get the documentation [here](https://web.mit.edu/music21/doc/) <br>
+  For converting the abc format text to music we will use <b>music21</b> library. You can get the documentation here(https://web.mit.edu/music21/doc/) <br>
   We will also use <b>abcjs</b> to download midi files generated from ABC Notation. You will find the link of the website inside the file.
   <b>ChatGPT</b> will also be used to check uniform line breaks in generated notation to save time.
 </p>
