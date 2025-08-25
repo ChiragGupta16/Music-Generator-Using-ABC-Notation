@@ -1,4 +1,10 @@
 # Music Generation Using RNN
+<h2> Generated Music</h2>
+<p>
+  Stream the music on vimeo for free. <br>
+  Link -> https://vimeo.com/948299931
+</p>
+
 <h2> Overview</h2>
 <p>
   Tired of getting the same code everywhere ? <br>
